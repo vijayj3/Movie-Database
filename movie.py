@@ -5,7 +5,7 @@ import logging
 
 logging.basicConfig(format='%(levelname)s:%(message)s', level=logging.DEBUG)
 
-API_KEY = "65352c83b3ec57a8a7009a4a95ddaef0"
+API_KEY = "<ENTER KEY HERE>"
 BASE_URL = "https://api.themoviedb.org/3"
 
 
