@@ -5,9 +5,9 @@ This is an NLP based Movie Chatbot that extracts an Actor's name and a year and 
 
 ### Dependicies
 1. This app uses the [The movie Database API](https://www.themoviedb.org/documentation/api)
-2. Python 2.7
-3. Flask 0.12
-4. SpaCy 'en' 1.6
+2. [Python 2.7](https://www.python.org/download/releases/2.7/)
+3. [Flask 0.12](http://flask.pocoo.org/)
+4. [SpaCy 'en' 1.6](https://spacy.io/docs/usage/)
 
 ### Usage
 1. Get a TMDb API key from the official website of [TMDb](https://www.themoviedb.org/documentation/api)
